@@ -11,6 +11,7 @@
   inputs.src-normalize-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-normalize-v0_2_0.owner = "nitely";
   inputs.src-normalize-v0_2_0.repo  = "nim-normalize";
+  inputs.src-normalize-v0_2_0.dir   = "";
   inputs.src-normalize-v0_2_0.type  = "github";
   
   inputs."unicodedb".owner = "nim-nix-pkgs";
