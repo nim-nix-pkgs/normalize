@@ -11,7 +11,6 @@
   inputs.src-normalize-master.ref   = "refs/heads/master";
   inputs.src-normalize-master.owner = "nitely";
   inputs.src-normalize-master.repo  = "nim-normalize";
-  inputs.src-normalize-master.dir   = "";
   inputs.src-normalize-master.type  = "github";
   
   inputs."unicodedb".owner = "nim-nix-pkgs";
